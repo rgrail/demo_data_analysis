@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on [Adult Demographic Data]
+# Exploratory Data Analysis on the Adult Demographic Data dataset
 
 This project is a simple exploratory data analysis (EDA) on the Adult Demographic dataset. The goal was to uncover insights, identify patterns, and understand the structure of the data through visualizations and summary statistics. My secondary goal was to test myself in Python as I am a relatively new learner and wanted to make sure I understood the syntax and the logic of EDA processes and dealing with data. 
 
